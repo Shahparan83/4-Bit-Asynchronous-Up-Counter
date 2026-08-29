@@ -1,2 +1,7 @@
-# 4-Bit-Asynchronous-Up-Counter
-4-Bit Asynchronous Up Counter using JK Flip-Flops with Tinkercad simulation.
+# 4-Bit Asynchronous Up Counter
+
+This project demonstrates a 4-bit asynchronous up counter using JK flip-flops.
+
+## Tinkercad Simulation
+
+[Click here to view the Tinkercad simulation](https://www.tinkercad.com/login?next=%2Fthings%2F7UvR9EbG5jO-4-bit-asynchronous-up-counter-using-jk-flip-flop%2Feditel%3FreturnTo%3Dhttps%253A%252F%252Fwww.tinkercad.com%252Fdashboard)
